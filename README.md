@@ -1,0 +1,1 @@
+# Pow-of-x-and-n-Leetcode
